@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leomoleiro95/gh-pages/static/css/main.8d3bb1a0.css",
+    "main.js": "/leomoleiro95/gh-pages/static/js/main.6a816706.js",
+    "index.html": "/leomoleiro95/gh-pages/index.html",
+    "main.8d3bb1a0.css.map": "/leomoleiro95/gh-pages/static/css/main.8d3bb1a0.css.map",
+    "main.6a816706.js.map": "/leomoleiro95/gh-pages/static/js/main.6a816706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3bb1a0.css",
+    "static/js/main.6a816706.js"
+  ]
+}
